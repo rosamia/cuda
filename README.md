@@ -1,4 +1,4 @@
-# Ubuntu 1.04
+# Ubuntu 16.04
 
 ## CUDA 9.1
 
